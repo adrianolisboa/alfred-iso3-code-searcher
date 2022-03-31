@@ -9,7 +9,7 @@
 
 ## Installing
 
-1. [Click to download](https://raw.github.com/adrianolisboa/alfred-iso3-code-searcher/main/ISO3%20Code%20Searcher.alfredworkflow)
+1. [Click to download](https://raw.github.com/adrianolisboa/alfred-iso3-code-searcher/main/iso3-code-searcher.alfredworkflow)
 1. Double-click to import into Alfred
 
 ## Commands
