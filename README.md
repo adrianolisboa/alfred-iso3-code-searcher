@@ -1,4 +1,4 @@
-# Alfred ISO3 Code Searcher Worflow
+# Alfred ISO3 Code Searcher Workflow
 
 ---
 
